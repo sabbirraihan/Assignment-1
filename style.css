@@ -1,0 +1,37 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.top-banner {
+    color: white;
+    background-image: url(images/donation14.webp);
+    margin-top: 0%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 0px;
+}
+
+.top-part {
+
+    text-align: center;
+    padding: 250px;
+
+}
+
+.button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-size: 20px;
+}
