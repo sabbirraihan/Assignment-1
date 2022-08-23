@@ -34,4 +34,85 @@ h3 {
     border-radius: 5px;
     color: aliceblue;
     font-size: 20px;
+    margin-top: 15px;
+}
+
+
+
+.donate-banner {
+    text-align: center;
+
+}
+
+.donate-part {
+    display: flex;
+    gap: 20px;
+    margin-left: 250px;
+
+
+}
+
+.amount {
+    background-color: rgb(241, 240, 240);
+    padding: 25px;
+    border-radius: 5px;
+
+}
+
+.red-amount {
+    background-color: rgba(227, 176, 167, 0.975);
+    padding: 25px;
+    border-radius: 5px;
+    border: 3px solid tomato;
+}
+
+.other {
+    border-bottom: 2px solid gray;
+    color: darkgrey;
+    margin-bottom: 20px;
+}
+
+.thirt-part {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.flex-box-container {
+    display: flex;
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+
+.donate-plan {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#food {
+    background-color: rgb(174, 251, 251);
+}
+
+#shelter {
+    background-color: rgb(240, 222, 225);
+}
+
+#education {
+    background-color: rgb(240, 240, 188);
+}
+
+footer {
+    background: black;
+    padding: 15px;
+    text-align: center;
+    color: aliceblue;
+
+}
+
+span {
+    color: rgb(221, 106, 106);
+    font-style: oblique;
 }
