@@ -104,10 +104,42 @@ h3 {
     background-color: rgb(240, 240, 188);
 }
 
+.margin {
+    margin-bottom: 150px;
+    margin-top: 150px;
+}
+
+.mis-h1 {
+    text-align: center;
+}
+
+.top-p {
+    display: flex;
+}
+
+#form {
+    box-shadow: 5px 5px 5px gray;
+    background-color: rgb(218, 169, 185);
+    color: purple;
+    padding: 20px;
+    border-radius: 5PX;
+
+}
+
+.form-pad {
+    margin-left: 20px;
+}
+
+.form-width {
+    width: 70%;
+    padding-left: 10%;
+}
+
 .form-box {
     text-align: center;
     margin-top: 150px;
 }
+
 
 .form {
     background-color: darkgray;
@@ -118,6 +150,14 @@ h3 {
     margin-top: 50px;
 
 }
+
+#submit {
+    padding: 5px;
+    border-radius: 4px;
+    background-color: gold;
+    font-size: 16px;
+}
+
 
 .email {
 
