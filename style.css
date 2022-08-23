@@ -104,6 +104,38 @@ h3 {
     background-color: rgb(240, 240, 188);
 }
 
+.form-box {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.form {
+    background-color: darkgray;
+    padding: 80px 50px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+
+}
+
+.email {
+
+    padding: 12px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+
+.subscribe {
+
+    padding: 12px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+}
+
 footer {
     background: black;
     padding: 15px;
